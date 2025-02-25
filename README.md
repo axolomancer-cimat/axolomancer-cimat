@@ -1,16 +1,14 @@
-## Hi there 👋
+# Axolomancer-cimat
 
-<!--
-**axolomancer-cimat/axolomancer-cimat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Institutional account of axolomancer
 
-Here are some ideas to get you started:
+Currently working on formation control for Autonomous Aerial Vehicles (AAV)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interst Areas:
++ Control
++ Robotics
++ Distributed systems
++ Open source
+
+"A common experience, resulting in a common confusion"- Franz Kafka
+
